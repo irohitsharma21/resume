@@ -57,6 +57,12 @@ graph TD
     HR --> HR1[Cultural Fit Questions]
     HR --> HR2[Security - OWASP, OAuth]
     HR --> HR3[Salary Negotiation]
+
+    ROOT --> COMP[Comparisons & Core Flows]
+    COMP --> C1[FastAPI vs Flask vs Django]
+    COMP --> C2[MongoDB vs PostgreSQL]
+    COMP --> C3[Transformers & Attention]
+    COMP --> C4[RAG Pipeline Deep Dive]
 ```
 
 ---
@@ -72,9 +78,11 @@ graph TD
 | 05 | [DevOps, Cloud & System Design](./05_devops_cloud_system_design.md) | Infrastructure & Architecture | Docker, K8s, CI/CD, AWS/GCP, Prometheus, system design, Redis |
 | 06 | [DSA & CS Fundamentals](./06_dsa_cs_fundamentals.md) | Core CS | Data structures, algorithms, OOP, DBMS, OS, networks |
 | 07 | [Work Experience Deep Dive](./07_work_experience_deep_dive.md) | IndusLabs AI Role | Voice AI agent, TTS fine-tuning, 30x throughput, deployment, founding engineer |
-| 08 | [Python Deep Dive](./08_python_deep_dive.md) | Python Internals & Patterns | **NEW** — GIL, async Python, decorators, generators, testing, performance |
-| 09 | [ML Math & Evaluation](./09_ml_math_and_evaluation.md) | ML Theory & Metrics | **NEW** — Backprop, optimizers, loss functions, metrics, MLOps, advanced AI |
-| 10 | [HR, Security & Tips](./10_hr_security_and_tips.md) | Soft Skills & Security | **NEW** — HR questions, OWASP, OAuth, salary negotiation, interview tips |
+| 08 | [Python Deep Dive](./08_python_deep_dive.md) | Python Internals & Patterns | GIL, async Python, decorators, generators, testing, performance |
+| 09 | [ML Math & Evaluation](./09_ml_math_and_evaluation.md) | ML Theory & Metrics | Backprop, optimizers, loss functions, metrics, MLOps, advanced AI |
+| 10 | [HR, Security & Tips](./10_hr_security_and_tips.md) | Soft Skills & Security | HR questions, OWASP, OAuth, salary negotiation, interview tips |
+| 11 | [Agentic AI & Modern Trends](./11_agentic_ai_and_modern_trends.md) | Cutting-edge AI | Agentic AI, MCP, frameworks, emerging buzzwords, 50 quick-fire Q&A |
+| 12 | [Comparisons & Core Flows](./12_comparison_cheatsheet_and_deep_dives.md) | Interview Cheat Sheet | **NEW** — FastAPI vs Flask, Mongo vs Postgres, Attention math, RAG flow |
 
 ---
 
